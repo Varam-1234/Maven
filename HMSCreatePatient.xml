@@ -1,0 +1,7 @@
+ <suite name="HMS">
+<test name="HMS Results">
+ <classes>
+  <class name="testScripts.HMSCreatePatient" /> 
+  </classes>
+  </test>
+  </suite>
